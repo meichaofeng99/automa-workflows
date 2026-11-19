@@ -1,6 +1,6 @@
-# Autom Workflows · Instagram 自动化流程仓库
+# Automa Workflows · Instagram 自动化流程仓库
 
-> Ready-to-import [Autom](https://automa.site/) workflows for Instagram — auto post photos/reels, collect insights, check login state.
+> Ready-to-import [Automa](https://automa.site/) workflows for Instagram — auto post photos/reels, collect insights, check login state.
 > 可直接导入 Autom 的 Instagram 浏览器自动化流程：自动发帖、发 Reels、数据采集、登录检查。中英文双语，方便人与 AI 检索。
 
 [![Autom](https://img.shields.io/badge/Autom-workflows-blue?logo=googlechrome&logoColor=white)](https://automa.site/)
@@ -8,7 +8,7 @@
 
 ## 这个仓库做什么
 
-收集 Instagram 的 Autom 自动化流程，导入即用：
+收集 Instagram 的 Automa 自动化流程，导入即用：
 
 - Instagram 自动发帖：上传图片、填文案、加话题标签、点发布或存草稿
 - Instagram Reels 发布：上传视频、填标题、设定封面
@@ -39,7 +39,7 @@
 - 发帖流程常用变量：文案 `IG_CAPTION`、话题标签 `IG_HASHTAGS`、图片/视频路径 `IG_MEDIA`。
 - 数据采集走自己的创作者后台（Professional Dashboard），不需要额外 API。
 
-> 不要把账号密码写死在 JSON 里，用 Autom 变量或浏览器登录态。
+> 不要把账号密码写死在 JSON 里，用 Automa 变量或浏览器登录态。
 
 ## 关键词 / 搜索词
 
