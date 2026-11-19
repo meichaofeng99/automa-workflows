@@ -60,6 +60,7 @@
 - 仅用于你自己拥有或有授权的 Instagram 账号。
 - 不抓取他人数据，不刷量，不绕过平台风控。
 - 自动发布建议保留人工审核，先存草稿、核对后再发布。
+- 仅供学习 / For learning purposes only.
 
 ## License
 
