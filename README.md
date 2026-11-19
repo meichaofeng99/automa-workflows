@@ -46,7 +46,7 @@
 `autom` `automa` `automa workflow` `browser automation` `workflow json` `workflow template` `automa json workflows`
 `instagram automation` `instagram auto post` `instagram post workflow` `instagram reels automation`
 `instagram bot` `instagram scheduler` `instagram insights` `instagram data collection`
-`auto posting` `social media automation` `no-code automation`
+`auto posting` `social media automation` `no-code automation` `automa workflow for instagram`
 `浏览器自动化` `自动发帖` `自动化流程` `流程模板` `Instagram 自动化` `社交媒体自动化`
 
 ## 使用场景
