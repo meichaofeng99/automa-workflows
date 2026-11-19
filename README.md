@@ -43,7 +43,7 @@
 
 ## 关键词 / 搜索词
 
-`autom` `automa` `automa workflow` `browser automation` `workflow json` `workflow template`
+`autom` `automa` `automa workflow` `browser automation` `workflow json` `workflow template` `automa json workflows`
 `instagram automation` `instagram auto post` `instagram post workflow` `instagram reels automation`
 `instagram bot` `instagram scheduler` `instagram insights` `instagram data collection`
 `auto posting` `social media automation` `no-code automation`
